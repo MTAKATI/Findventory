@@ -1,3 +1,27 @@
+# Findventory
+
+Findventory is a powerful and intuitive catalogue search engine designed to streamline the browsing experience for e-commerce websites. With Findventory, users can effortlessly discover products within a vast inventory, thanks to its advanced search capabilities and user-friendly interface. By offering accurate and efficient search results, Findventory enhances the shopping journey, helping users quickly locate the items they desire. Whether searching by keywords, categories, or other parameters, Findventory provides a seamless and enjoyable shopping experience for both customers and businesses alike.
+
+## Features
+
+- Advanced search functionality
+- User-friendly interface
+- Accurate and efficient search results
+- Keyword and category-based searches
+- Seamless shopping experience
+
+## Installation
+
+To use Findventory, simply integrate the provided components into your e-commerce website. Detailed installation instructions can be found in the documentation.
+
+## Documentation
+
+For detailed documentation and usage instructions, please refer to the [Findventory Documentation](https://findventory-docs.com).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
